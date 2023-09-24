@@ -1,0 +1,10 @@
+print(type(1))                            
+print(type(2.2))
+print(type(1 + 1j))
+
+print(type("test"))
+print(type(1 == True))
+print(type(["a", "1"]))
+print(type((1.2, 2.34, 3.23,)))
+print(type({1.2, 2.34, 3.23,}))
+print(type({'name': 'john'}))
